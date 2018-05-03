@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1525352877 source:c:\users\alumno\desktop\estructuras genericas\estructuragenerica.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"EstructuraGenerica.h"
+
+1525352877 c:\users\alumno\desktop\estructuras genericas\estructuragenerica.h
+
