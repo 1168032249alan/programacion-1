@@ -1,0 +1,2 @@
+Esto es un texto dentro del fichero.s
+Esto es otro texto dentro del fichero.
